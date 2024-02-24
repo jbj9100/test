@@ -20,8 +20,12 @@
     <repositories>
         <repository>
             <id>central</id>
-            <name>maven-central</name>
+            <name>Maven Repository Switchboard</name>
+            <layout>default</layout>
             <url>http://192.168.70.156:32306/repository/maven-central/</url>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
         </repository>
     </repositories>
 
