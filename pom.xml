@@ -20,7 +20,7 @@
     <repositories>
         <repository>
             <id>central</id>
-            <name>local repository</name>
+            <name>maven-central</name>
             <url>http://192.168.70.156:32306/repository/maven-central/</url>
         </repository>
     </repositories>
