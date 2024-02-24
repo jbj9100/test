@@ -19,7 +19,7 @@
 
     <repositories>
         <repository>
-            <id>custom jars repo</id>
+            <id>central</id>
             <name>local repository</name>
             <url>http://192.168.70.156:32306/repository/maven-central/</url>
         </repository>
